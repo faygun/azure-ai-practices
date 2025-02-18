@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "azure-ai-practices": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ApiKey": "",
+        "Region": ""
+      }
+    }
+  }
+}
